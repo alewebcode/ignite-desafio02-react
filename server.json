@@ -21,8 +21,48 @@
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "teste",
+      "name": "teste",
+      "price": "teste",
+      "description": "teste",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "meu prato",
+      "name": "moda mineira",
+      "price": "20.50",
+      "description": "teste",
+      "available": true,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "image": "prato sss",
+      "name": "Moda da casa",
+      "price": "20",
+      "description": "teste",
+      "available": true
+    },
+    {
+      "image": "teste1",
+      "name": "teste1",
+      "price": "teste1",
+      "description": "teste111",
+      "available": true,
+      "id": 7
+    },
+    {
+      "image": "",
+      "name": "feijao tropeiro",
+      "price": "25,50",
+      "description": "Feijao tropeiro",
+      "available": true,
+      "id": 8
     }
   ]
 }
